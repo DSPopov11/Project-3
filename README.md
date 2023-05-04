@@ -11,8 +11,12 @@
 
 Решение:
 1.	Диаграммы BPMN as-is и BPMN to-be. 
-https://disk.yandex.ru/d/RN-Dkp-qH6evXQ
+https://disk.yandex.ru/d/7kDk7ufDSFlaZA
+
 2.	Карта пользовательских историй с выделенным MVP. https://miro.com/app/board/uXjVP3styIM=/?share_link_id=881899802004
-3.	Диаграммы DFD https://disk.yandex.ru/d/bRfP5Z-xEybmAg
+
+3. ER-модель https://disk.yandex.ru/d/YH6jJHDVBNFT3A
+
+4.	Диаграммы DFD (https://disk.yandex.ru/d/PSblg8dTnVj6Qg)
 
 
